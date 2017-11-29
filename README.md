@@ -14,3 +14,5 @@ JavaScript Web App that Scrapes Websites for Local Event Information
 - [ ] Allows users to update their location by typing in their zip code or request user location https://developers.google.com/web/fundamentals/native-hardware/user-location/
 
 * Visit site [here](http://danstrong.tech/local-events-app/)
+
+[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
